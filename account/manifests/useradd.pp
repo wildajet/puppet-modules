@@ -68,7 +68,7 @@
 # Store the Data in YAML:
 #
 # users:
-#  jwilda:
+#  wildajet:
 #    uid:
 #                  '327'
 #    gid:

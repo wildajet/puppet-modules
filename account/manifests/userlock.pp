@@ -15,7 +15,7 @@
 #
 # === Examples
 #
-# account::userlock { 'jwilda': }
+# account::userlock { 'wildajet': }
 #
 # === Authors
 #

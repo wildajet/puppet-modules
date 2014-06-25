@@ -15,7 +15,7 @@
 #
 # === Examples
 #
-# account::groupdel { 'jwilda': }
+# account::groupdel { 'wildajet': }
 #
 #
 # === Authors

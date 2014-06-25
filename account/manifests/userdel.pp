@@ -18,7 +18,7 @@
 #
 # === Examples
 #
-# account::userdel { 'jwilda': }
+# account::userdel { 'wildajet': }
 #
 # or using create_resources with data in YAML
 #

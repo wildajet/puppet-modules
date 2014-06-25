@@ -21,7 +21,7 @@
 # Store the Data in YAML:
 #
 # groups:
-#  jwilda:
+#  wildajet:
 #    gid:
 #                  '327'
 #
