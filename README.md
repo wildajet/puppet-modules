@@ -8,7 +8,7 @@ All files that a module references are being pulled from the fileserver and are 
 
 There is a hiera array called sourcelookup that stores the hiera lookup order for example
 
-sourcelookup:
+    sourcelookup:
                   - ".%{::hostname}"
                   - ".%{::group}"
                   - ""
